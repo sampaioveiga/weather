@@ -1,0 +1,16 @@
+body {
+  background-color: #E9F2F9;
+  margin-top: 3em;
+}
+
+.box {
+  padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.widget, h1, h2, h3 {
+  text-align: center;
+}
+
+.fahrenheit {
+  display: none;
+}
