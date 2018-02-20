@@ -1,3 +1,5 @@
-Weather
+Weather Forecast
 
-part of the Free Code Camp exercise, uploaded to codepen for show off
+HTML, CSS, Javascript, jQuery, Bootstrap and Animate.css
+
+https://codepen.io/Mick_Sampras/pen/vXbwZp
